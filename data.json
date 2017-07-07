@@ -1,0 +1,4 @@
+[
+  {"id": "1", "timestamp": "now", "description": "this.input.value", "square": 1},
+  {"id": "2", "timestamp": "now", "description": "this.input.value", "square": 1}
+]
